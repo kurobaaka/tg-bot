@@ -1,15 +1,13 @@
 <h1 align="center">vktgbot</h1>
 <p align=center>
     <a target="_blank" href="https://www.python.org/downloads/" title="Python Version"><img src="https://img.shields.io/badge/python-%3E=_3.8-purple.svg"></a>
-    <a target="_blank" href="https://github.com/alcortazzo/vktgbot/releases"><img alt="docker image" src="https://img.shields.io/github/v/release/alcortazzo/vktgbot?include_prereleases"></a>
-    <a target="_blank" href="LICENSE" title="License: GPL-3.0"><img src="https://img.shields.io/github/license/alcortazzo/vktgbot.svg?color=red"></a>
 </p> 
 
 <p align="center"><b>Telegram bot for automatic forwarding posts from VK to Telegram.</b></p>
 
 <p align="center">
     <a href="https://youtu.be/59_-yB5WjnI">
-        <img src="https://github.com/alcortazzo/vktgbot/blob/master/images/code.png"/>
+        <img src="https://github.com/kurobaaka/tg-bot/blob/main/images/code.png"/>
     </a>
 </p>
 
